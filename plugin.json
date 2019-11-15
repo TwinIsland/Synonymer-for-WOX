@@ -1,0 +1,12 @@
+{
+  "ID":"06e6aff789984dd99342fa16a1e5d510",  
+  "ActionKeyword":"sy",
+  "Name":"Synonymer",
+  "Description":"Find Synonyms and Antonyms for words",
+  "Author":"Wyatt Huang",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://overfit.org",
+  "IcoPath": "image/icon.ico",
+  "ExecuteFileName":"core.py"
+}
